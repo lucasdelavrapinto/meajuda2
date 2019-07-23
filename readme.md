@@ -38,4 +38,3 @@ CREATE TABLE `contas` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 ```
-#### Live Demo: [Aqui](http://165.227.94.2/)
